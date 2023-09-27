@@ -39,6 +39,16 @@ main{
     padding: 2px;
 }
 
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo span{
+    margin-left: 0.25rem;
+}
+
 .logo img{
     width: 17px;
     filter: invert(1);
